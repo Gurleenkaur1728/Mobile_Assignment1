@@ -1,3 +1,4 @@
+//Improved homepage styling to better resemble Instagram's look and feel"
 import { Ionicons } from '@expo/vector-icons';
 import React, { useState } from 'react';
 import {
